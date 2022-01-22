@@ -1,1 +1,2 @@
-# newStart
+# battleships-game
+javaScript HTML and CSS 
